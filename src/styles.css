@@ -1,0 +1,26 @@
+body {
+  margin-top: 50px;
+}
+
+.links {
+  display: block;
+  text-align: center;
+}
+
+.links a {
+  margin: 10px;
+  color: #3f2b26;
+}
+
+.links a:hover {
+  color: #795f58;
+  text-decoration: none;
+}
+.mail-link {
+  color: green;
+}
+
+.mail-link:hover {
+  color: rgb(61, 168, 61);
+  text-decoration: none;
+}
